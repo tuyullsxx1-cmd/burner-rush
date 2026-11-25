@@ -1,8 +1,8 @@
 # BURNER RUSH — a tiny kitchen rush
 
-[![bounty](https://make.fun/bounty/best-cooking-game-20261125-0137/badge)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![repo](https://img.shields.io/badge/repo-burner--rush-2ea44f)](https://github.com/tuyullsxx1-cmd/burner-rush)
-[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/tuyullsxx1-cmd/burner-rush/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/tuyullsxx1-cmd/burner-rush/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 A complete original cooking game built for the
 [make.fun bounty "Make the best cooking game"](https://make.fun/bounty/best-cooking-game-20261125-0137)
