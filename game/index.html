@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Burner Rush — a tiny kitchen rush</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #241a10; height: 100%; }
+  body { display: flex; align-items: center; justify-content: center; min-height: 100vh; }
+  #wrap { width: min(1280px, 100vw); }
+  canvas { display: block; width: 100%; height: auto; background: #f3e5c8; }
+  #help {
+    color: #e8d9b0; font: 14px Trebuchet MS, Verdana, sans-serif;
+    text-align: center; padding: 10px 12px 14px;
+  }
+  #help b { color: #f2b234; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="720"></canvas>
+  <div id="help"><b>BURNER RUSH</b> — WASD / arrows to move &nbsp;•&nbsp; E to use a station &nbsp;•&nbsp; click a station to walk there &nbsp;•&nbsp; M to mute</div>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
